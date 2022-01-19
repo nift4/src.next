@@ -1,7 +1,7 @@
 target_os = "android"
 target_cpu = "arm64"
-is_debug = false
-is_java_debug = false
+is_debug = true
+is_java_debug = true
 
 android_channel = "dev"
 is_official_build = true
